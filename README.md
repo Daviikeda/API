@@ -1,6 +1,7 @@
 # API de Figurinhas - Documentação
 
 Base URL: [http://localhost:3000](http://localhost:3000)
+Link da Collection Postman: https://daviikedalopes-2971244.postman.co/workspace/Davi-Ikeda-Lopes's-Workspace~14990e26-850b-40dc-8214-15d68b655f7a/collection/53435818-c718b4ce-aadf-472b-ba49-a5cd030602bb?action=share&source=copy-link&creator=53435818
 
 ---
 
